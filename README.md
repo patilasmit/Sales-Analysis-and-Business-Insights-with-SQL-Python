@@ -1,4 +1,4 @@
-# orders_dataset_analysis
+# Sales Analysis and Business Insights with SQL & Python
 SQL and PYTHON PROJECT
 detailed explanation of the project ,which involves analyzing and visualizing sales data from a database:
 
