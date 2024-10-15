@@ -20,8 +20,8 @@ Growth Trends: The year-over-year comparison highlighted key months with signifi
 Subcategory Profit Growth: I identified subcategories with the highest profit growth, helping the business prioritize investments in product development and marketing for these areas.
 
 # Tools & Technologies Used:
-SQL: For querying, aggregating, and analyzing large datasets.
+SQL : For querying, aggregating, and analyzing large datasets.
 Python (Pandas, Matplotlib, Seaborn): For data visualization and deeper analysis of sales trends.
-Jupyter Notebook: To seamlessly combine SQL queries and Python code for an efficient analysis workflow.
+Jupyter Notebook : To seamlessly combine SQL queries and Python code for an efficient analysis workflow.
 
 This project helps in understanding how different sub-categories performed year-over-year and highlights key insights using visual representations.
